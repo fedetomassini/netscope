@@ -1,4 +1,7 @@
-# ![Netscope](./public/contents/logo.webp) **NETSCOPE**
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/fedetomassini/netscope/refs/heads/main/public/contents/logo.webp" width="100" alt="Netscope"/><br/>
+	Netscope
+</h1>
 
 **Netscope** is a web application built using **React**, **Vite**, and **TypeScript**. It allows users to retrieve and view geolocation information based on their IP address using the [ipapi API](https://ipapi.co). The application provides an intuitive and responsive interface, making it easy to access geolocation data efficiently.
 
