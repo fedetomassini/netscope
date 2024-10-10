@@ -145,7 +145,7 @@ export const App = () => {
 										)}
 										{section === "other" && (
 											<p>
-												<span className="font-bold">Timezone:</span> {netInfo.timezone}
+												<span className="font-bold">Timezone:</span> {netInfo.timezone.replace(/\//g, ' - ').replace(/_/g, ' ')}
 											</p>
 										)}
 									</motion.div>
